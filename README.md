@@ -252,7 +252,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 🎥 Walkthrough Video
 
 Watch the complete walkthrough of the Medical Chatbot to get started:
-https://github.com/user-attachments/assets/15c2863d-c968-44d4-b404-27e8b7ff4b2b
+
+
+
+
+https://github.com/user-attachments/assets/2789c645-239a-43a1-9721-3d7fcc78a374
 
 
 **Made with ❤️ by Harshit**
